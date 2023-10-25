@@ -59,6 +59,9 @@ public class Main {
         //주문 시작 지점
         Page start = new Page();
         start.mainPageMethod(menu, orderList);
+
+
+        System.out.println("TEXT");
     }
 }
 
