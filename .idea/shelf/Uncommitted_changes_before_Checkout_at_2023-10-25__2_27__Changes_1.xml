@@ -1,9 +1,0 @@
-<changelist name="Uncommitted_changes_before_Checkout_at_2023-10-25_오후_2_27_[Changes]1" date="1698211648838" recycled="true" deleted="true">
-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023-10-25_오후_2_27_[Changes]1/shelved.patch" />
-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 2023-10-25 오후 2:27 [Changes]" />
-  <binary>
-    <option name="BEFORE_PATH" />
-    <option name="AFTER_PATH" value="out/production/teamproject/sparta/teamproject/Git_test.class" />
-    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023-10-25_오후_2_27_[Changes]1/Git_test.class" />
-  </binary>
-</changelist>
