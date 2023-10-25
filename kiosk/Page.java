@@ -1,4 +1,4 @@
-package sparta.teamproject.kiosk;
+package kiosk;
 
 import java.util.List;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package sparta.teamproject.kiosk;
+package kiosk;
 
 public class Order extends Items {
 
