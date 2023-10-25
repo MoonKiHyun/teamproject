@@ -8,6 +8,4 @@ public class Items extends Menu {
         super(name, description);
         this.price = price;
     }
-
-
 }
