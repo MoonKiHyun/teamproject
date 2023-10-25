@@ -1,4 +1,6 @@
 package sparta.teamproject;
 
-public class Item {
+public class Item extends Menu{
+
+    long price;
 }
